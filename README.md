@@ -1,15 +1,15 @@
 # 20201127T0330 Installed on a VM, ubuntu 19.10 ,virtualbox 6.0. 👍 minikube Running successfully！  
-$ minikube start
-😄  minikube v1.15.1 on Ubuntu 19.10
-✨  Using the virtualbox driver based on existing profile
-👍  Starting control plane node minikube in cluster minikube
-🔥  Creating virtualbox VM (CPUs=2, Memory=2200MB, Disk=20000MB) ...
-^[$❗  This VM is having trouble accessing https://k8s.gcr.io
-💡  To pull new external images, you may need to configure a proxy: https://minikube.sigs.k8s.io/docs/reference/networking/proxy/
-🐳  Preparing Kubernetes v1.19.4 on Docker 19.03.13 ...
-🔎  Verifying Kubernetes components...
-🌟  Enabled addons: storage-provisioner, default-storageclass
-💡  kubectl not found. If you need it, try: 'minikube kubectl -- get pods -A'
+$ minikube start  
+😄  minikube v1.15.1 on Ubuntu 19.10  
+✨  Using the virtualbox driver based on existing profile  
+👍  Starting control plane node minikube in cluster minikube  
+🔥  Creating virtualbox VM (CPUs=2, Memory=2200MB, Disk=20000MB) ...  
+^[$❗  This VM is having trouble accessing https://k8s.gcr.io  
+💡  To pull new external images, you may need to configure a proxy: https://minikube.sigs.k8s.io/docs/reference/networking/proxy/    
+🐳  Preparing Kubernetes v1.19.4 on Docker 19.03.13 ...  
+🔎  Verifying Kubernetes components...  
+🌟  Enabled addons: storage-provisioner, default-storageclass  
+💡  kubectl not found. If you need it, try: 'minikube kubectl -- get pods -A'  
 🏄  Done! kubectl is now configured to use "minikube" cluster and "default" namespace by default
 
 # minikube
